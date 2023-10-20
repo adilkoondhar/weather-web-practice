@@ -1,4 +1,2 @@
 # weather-web-practice
-An API practice project, a weather site.
-
-User enters city name and site fetches the weather of given city by using an API.
+This practice project is an API-based weather website where users can input a city name to retrieve real-time weather data. It utilizes an external API to provide weather information.
