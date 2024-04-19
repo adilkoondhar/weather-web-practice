@@ -9,4 +9,3 @@ This practice project is an API-based weather website where users can input a ci
 - **npm:** The default package manager for Node.js, facilitating easy dependency management.
 - **JavaScript:** A versatile scripting language used for building interactive web pages.
 - **Expressjs:** Powerful Node.js framework for building web apps & APIs.
-- **HTML:** The fundamental markup language for creating structured web documents, providing the backbone for content presentation and organization.
